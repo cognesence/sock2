@@ -6,3 +6,10 @@ You'll need to copy [the NetLogo JAR](https://github.com/NetLogo/NetLogo/release
 ## Stable Version
 
 The last known stable version is located externally [here](http://s573859921.websitehome.co.uk/pub/netlogo/cogs_nl_tools.htm#sock2). This should be used in preference to this development version for new projects.
+
+## License
+
+Copyright © 2017 Simon Lynch
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
